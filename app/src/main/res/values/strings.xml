@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlowLayout</string>
+    <string name="title_activity_symptom_two">SymptomTwoActivity</string>
+</resources>

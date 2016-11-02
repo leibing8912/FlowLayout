@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 已选症状背景 -->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:color="@color/gray">
+    <corners
+        android:radius="60dip" />
+    <stroke
+        android:width="0dp"
+        android:color="@color/gray" />
+    <solid
+        android:color="@color/gray" />
+</shape>

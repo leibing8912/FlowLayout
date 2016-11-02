@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_symptom_two2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="8dp"
+    tools:context="cn.jianke.flowlayout.module.SymptomTwoActivity">
+    <cn.jianke.flowlayout.widget.FlowLayout
+        android:id="@+id/fly_symptom_two"
+        app:width_space="16dp"
+        app:height_space="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </cn.jianke.flowlayout.widget.FlowLayout>
+</RelativeLayout>
